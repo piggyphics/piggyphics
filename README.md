@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @piggyphics
+- 👀 I’m interested in UI/UX Design, Coding, Gadget and Gaming
+- 🌱 I’m currently learning Javascript for Front-End
+- 💞️ I’m looking to collaborate on UI/UX Design
+- 📫 Contact through email piggyphics@gmail.com
